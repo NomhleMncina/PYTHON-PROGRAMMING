@@ -1,1 +1,1 @@
-These projects are my begunner project for python
+These are my beginner python projects
